@@ -17,12 +17,12 @@ Employee Data Modeling ERD image file is located at folder, Link:
  [http://www.quickdatabasediagrams.com]
 
 ## DATA ENGINEERING - PostgresSQL Database Creation
-Employee Database PostgresSQL code file is located at folder, Link:   
- https://github.com/robgauer/sql-challenge/blob/master/EmployeeSQL/Code_employee_sql/employee_db_schemata.sql
+Employee Database PostgresSQL code file is located at folder:   
+ github.com/robgauer/sql-challenge/blob/master/EmployeeSQL/Code_employee_sql/employee_db_schemata.sql
 
 ## DATA ANALYSIS - PostgresSQL Database Queries
-Employee Database PostgresSQL code query file is located at folder, Link:  
- https://github.com/robgauer/sql-challenge/blob/master/EmployeeSQL/code_employee_sql/employee_db_queries.sql
+Employee Database PostgresSQL code query file is located at folder:  
+ github.com/robgauer/sql-challenge/blob/master/EmployeeSQL/code_employee_sql/employee_db_queries.sql
 
 ## OPTIONAL - PANDAS BONUS ANALYSIS
 Use PANDAS to connect to the Employee Database. Use Pandas for Bonus Analysis. Pandas code file is located at folder, Link:  
